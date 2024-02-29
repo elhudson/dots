@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../openbox"
+		},
+		{
+			"path": "../../../../etc/xdg/deadd"
+		}
+	],
+	"settings": {
+		"search-online.search-engine": "Google"
+	}
+}
